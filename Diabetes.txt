@@ -1,0 +1,19 @@
+- Weight
+- Genes.
+- Physical inactivity.
+
+Types
+- type 1
+- type 2
+- gestational diabetes
+
+Symptoms
+- Thirsty.
+- Tired.
+- Thinner.
+
+Treatments
+- Insulin pumps.
+- Tablets and medication.
+
+end

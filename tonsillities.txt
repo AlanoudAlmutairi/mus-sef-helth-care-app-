@@ -1,0 +1,17 @@
+1-common viruses
+2-bacterial infections
+
+Types
+1-Recurrent tonsillitis.
+2-Chronic tonsillitis. 
+
+Symptoms
+1-Fever
+2-Sore throat.
+3-Bad breath
+
+Treatments
+1-Offer lozenges. 
+2-Avoid irritants
+
+end
